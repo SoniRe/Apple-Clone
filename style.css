@@ -1,8 +1,13 @@
+@font-face {
+  font-family: myfont;
+  src: url(./Gilroy-Medium.ttf);
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: gilroy;
+  font-family: myfont;
 }
 
 html,
